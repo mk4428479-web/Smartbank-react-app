@@ -1,0 +1,11 @@
+t push -u origin main
+
+Merge branch 'main' of https://github.com/mk4428479-web/Smartbank-react-app
+# Please enter a commit message to explain why this merge is necessary,
+# especiallg 'main' of
+https://github.com/mk4428479-web/Smartbank-react-app
+af it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit. git push -u origin main
+
